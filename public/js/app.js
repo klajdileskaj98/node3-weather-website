@@ -21,6 +21,7 @@ const messageTwo = document.querySelector('#message-2')
 
 // messageOne.textContent = 'From JavaScript'
 
+
 messageOne.textContent = 'Loading...'
 messageTwo.textContent = ''
 
